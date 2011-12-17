@@ -1,24 +1,24 @@
 <p> ... </p> : Paragraphes 
 
-<br /> : Aller à la ligne 
+<br /> : Aller ï¿½ la ligne 
 
 <h123> ... </h123> : Titres plus ou moins grands en fonction du chiffre suivant le h (1, 2 ou 3)
 
 Mise en valeur : <em> ... </em> : important(italique par defaut)
 		 <strong> ... </strong> : plus important(gras par defaut)
-		 <mark> ... </mark> : important aussi (surligné par defaut)
+		 <mark> ... </mark> : important aussi (surlignï¿½ par defaut)
 
-<ul> ... </ul> : encadre les listes non ordonnées 
-<ol> ... </ol> : encadre les listes ordonnées
-<li> ... </li> : limite de l'élement d'une liste 
+<ul> ... </ul> : encadre les listes non ordonnï¿½es 
+<ol> ... </ol> : encadre les listes ordonnï¿½es
+<li> ... </li> : limite de l'ï¿½lement d'une liste 
 
-<a href="lien du site"> Intitulé </a> : Mettre un lien vers un autre site (lien externe)
-	<a href="lien de la page"> Intitulé </a> : Lien vers une autre page (si dans le même dossier)
-	<a href="chemin de la page"> Intitulé </a> : Lien vers une page située dans un autre dossier (généralement un sous-dossier)
+<a href="lien du site"> Intitulï¿½ </a> : Mettre un lien vers un autre site (lien externe)
+	<a href="lien de la page"> Intitulï¿½ </a> : Lien vers une autre page (si dans le mï¿½me dossier)
+	<a href="chemin de la page"> Intitulï¿½ </a> : Lien vers une page situï¿½e dans un autre dossier (gï¿½nï¿½ralement un sous-dossier)
 
-<h1 id="mon ancre"> Titre </h1> : mettre id en attribut dans le titre à ancrer (créer une ancre)
-<a href="#mon_ancre"> Intitulé </a>
-(attribut dans un lien) title="Texte à afficher" : Afficher une bulle d'aide
+<h1 id="mon ancre"> Titre </h1> : mettre id en attribut dans le titre ï¿½ ancrer (crï¿½er une ancre)
+<a href="#mon_ancre"> Intitulï¿½ </a>
+(attribut dans un lien) title="Texte ï¿½ afficher" : Afficher une bulle d'aide
 <a href="mailto:phinsonmans@gmail.com">Envoyez-moi un e-mail !</a> : Lien pour envoyer un mail 
 
 
@@ -29,3 +29,5 @@ Photo : Jpeg 		Graphique (peu de couleurs): PNG 8 bits			Graphique(bcp de couleu
 
 
 NAN mais je suis trop FATTTTTTTTTTTTTTTTTTTT maaaaaaaaan
+
+Ici c'est moi le boss, donc tu obÃ©is ! 
