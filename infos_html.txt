@@ -1,0 +1,30 @@
+<p> ... </p> : Paragraphes 
+
+<br /> : Aller à la ligne 
+
+<h123> ... </h123> : Titres plus ou moins grands en fonction du chiffre suivant le h (1, 2 ou 3)
+
+Mise en valeur : <em> ... </em> : important(italique par defaut)
+		 <strong> ... </strong> : plus important(gras par defaut)
+		 <mark> ... </mark> : important aussi (surligné par defaut)
+
+<ul> ... </ul> : encadre les listes non ordonnées 
+<ol> ... </ol> : encadre les listes ordonnées
+<li> ... </li> : limite de l'élement d'une liste 
+
+<a href="lien du site"> Intitulé </a> : Mettre un lien vers un autre site (lien externe)
+	<a href="lien de la page"> Intitulé </a> : Lien vers une autre page (si dans le même dossier)
+	<a href="chemin de la page"> Intitulé </a> : Lien vers une page située dans un autre dossier (généralement un sous-dossier)
+
+<h1 id="mon ancre"> Titre </h1> : mettre id en attribut dans le titre à ancrer (créer une ancre)
+<a href="#mon_ancre"> Intitulé </a>
+(attribut dans un lien) title="Texte à afficher" : Afficher une bulle d'aide
+<a href="mailto:phinsonmans@gmail.com">Envoyez-moi un e-mail !</a> : Lien pour envoyer un mail 
+
+
+Photo : Jpeg 		Graphique (peu de couleurs): PNG 8 bits			Graphique(bcp de couleurs) : PNG 24 bits
+<img src="chemin de l'image" alt="texte descriptif"
+
+
+
+
